@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/themes/light.css"/>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+<body>
+    <div style="display: flex;justify-content: center;align-items: center;">
+        <sl-card class="card-overview">
+            <img class="avatar-image" slot="image">
+            <sl-input class="username-input" name="username" label="Username"></sl-input>
+            <sl-input class="email-input" name="email" label="Email"></sl-input>
+            <sl-input class="password-input" name="password" label="Password"></sl-input>
+            <input class="avatar-input" style="display: none;" type="file" accept="image/*">
+            <div style="display: flex;flex-direction: column; row-gap: 5px;">
+                <sl-button style="margin-top: 5px;" class="avatar-button">Avatar</sl-button>
+                <sl-button class="update-button">Update</sl-button>
+            </div>
+        </sl-card>
+    </div>
+
+    <script src="main.js" type="module"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/shoelace-autoloader.js"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+# =========================
+# .NET / Visual Studio / VS Code
+# =========================
+
+## Build results
+bin/
+obj/
+out/
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+## Rider / JetBrains (ako neko koristi)
+.idea/
+*.iml
+
+# =========================
+# NUnit
+# =========================
+nunit.framework.dll
+*.nunit
+
+# =========================
+# Playwright
+# =========================
+
+## Playwright binaries & cache
+.playwright/
+playwright-report/
+playwright/.cache/
+playwright/.auth/
+
+## Screenshots, videos, traces
+test-results/
+trace.zip
+*.zip
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# =========================
+# Misc
+# =========================
+.env
+.env.*

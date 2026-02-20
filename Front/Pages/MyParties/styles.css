@@ -1,0 +1,30 @@
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.card-overview {
+    width: fit-content;
+    height: fit-content;
+}
+
+.card-image {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.footer-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.edit-party-button, .cancel-party-button {
+    width: 100px;
+}

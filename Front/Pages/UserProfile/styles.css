@@ -1,0 +1,12 @@
+
+
+.card-overview {
+    width: fit-content;
+    height: fit-content;
+}
+
+.avatar-image {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}

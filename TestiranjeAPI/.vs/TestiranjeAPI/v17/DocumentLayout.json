@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\19210\\IV Godina\\qa\\PartyQa\\TestiranjeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D55499-B002-2357-EF0D-640AE7E0A73D}|TestiranjeAPI.Test.Component\\TestiranjeAPI.ComponentTest.csproj|d:\\19210\\iv godina\\qa\\partyqa\\testiranjeapi\\testiranjeapi.test.component\\partycontrollergetallpartiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D55499-B002-2357-EF0D-640AE7E0A73D}|TestiranjeAPI.Test.Component\\TestiranjeAPI.ComponentTest.csproj|solutionrelative:testiranjeapi.test.component\\partycontrollergetallpartiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartyControllerGetAllPartiesTests.cs",
+              "DocumentMoniker": "D:\\19210\\IV Godina\\qa\\PartyQa\\TestiranjeAPI\\TestiranjeAPI.Test.Component\\PartyControllerGetAllPartiesTests.cs",
+              "RelativeDocumentMoniker": "TestiranjeAPI.Test.Component\\PartyControllerGetAllPartiesTests.cs",
+              "ToolTip": "D:\\19210\\IV Godina\\qa\\PartyQa\\TestiranjeAPI\\TestiranjeAPI.Test.Component\\PartyControllerGetAllPartiesTests.cs*",
+              "RelativeToolTip": "TestiranjeAPI.Test.Component\\PartyControllerGetAllPartiesTests.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:25:35.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

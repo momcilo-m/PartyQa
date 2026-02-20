@@ -1,0 +1,34 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.task-card {
+    width: 250px;
+    height: fit-content;
+    margin-top: 10px;
+}
+
+.party-card {
+    text-align: center;
+    width: 300px;
+    height: fit-content;
+}
+
+.footer-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 5px;
+}
+
+.edit-button {
+    margin-top: 5px;
+}
+
+.edit-button, .remove-button {
+    width: 100px;
+}

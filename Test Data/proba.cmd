@@ -1,0 +1,5 @@
+psql -U postgres -d PartyDatabase -a -f "truncate.sql"
+psql -U postgres -d PartyDatabase -a -f "users.sql"
+psql -U postgres -d PartyDatabase -a -f "parties.sql"
+psql -U postgres -d PartyDatabase -a -f "partyattendances.sql"
+psql -U postgres -d PartyDatabase -a -f "tasks.sql"
